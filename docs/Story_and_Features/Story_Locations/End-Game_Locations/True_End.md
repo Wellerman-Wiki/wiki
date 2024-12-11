@@ -13,8 +13,6 @@ search:
 
 !!! danger "Note: The true end of the storyline will take you to a dedicated credits room, NOT the vanilla Minecraft end credits."
 
-!!! danger "Consider yourself warned."
-
 !!! danger "![Spoiler Door](/assets/img/spoiler_door.png)"
 
 !!! danger "Just in case you haven't beaten the map and are still here, because of the gravity of this article, here's another spoiler warning."
@@ -66,12 +64,12 @@ If the player refuses closure, then they can trigger this dialogue option again 
 ## Lore
 The True End is foreshadowed by the [[The Facets#Facet III|third Facet]], which directly parallels the end of Drehmal. This has led to significant speculation by the community, attempting to discern the meaning of the so-called "Facets". Some signs indicate that there is a tie between [[Verrhys]], the Aspect of Silence, and the ending of Drehmal, perhaps suggesting ties between Verrhys and the Mythoclast. However, these ties are not concrete, as there is so little information on the Aspect.
 
-![[verrhys_dunes.png]]
+![[dunes_verrhys.png]]
 > The Verrhys statue in the dunes.
 
 Southeast of the Primal Caverns, a statue of Verrhys, made of identical materials to the one found in the [[Black Jungle]], can be found inside the dunes. However, its pose is different—instead of cowering behind its wings, Verrhys' wings are outstretched, and pieces of it appear to have fallen off. This directly mirrors the final line of Facet III - *"3:6 - And silence will spread its wings."*
 
-![[verrhys_dunes_excavated.png]]
+![[dunes_verrhys_excavated.png]]
 > The Dunes Verrhys statue, excavated.
 
 The True End appears to have been inevitable, as suggested by the fact that warping into the future via the Temporal Engine at Sal'Mevir projects the player into this very dimension, in a version of the area covered in the same lifeless desert. 
